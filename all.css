@@ -1,0 +1,23 @@
+header {
+    background-color: red;
+    font: 100% serif;
+    padding: 10px
+}
+center {
+    border: thick double #00ff18;
+    background: #a400ff;
+    margin: 20px 0 20px 0;
+    width: 21em;
+    height: 10em;
+}
+footer {
+    background: gray;
+}
+.logo {
+    font: bold 200% Arial;
+}
+.main {
+    position: relative;
+    top: 10px;
+    font-size: 2em;
+}
